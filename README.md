@@ -17,3 +17,6 @@
 
 - **Lesson 4 — Initialize and Push**
   - 4.1 How to init git and push it to GitHub
+
+
+## Check out the [Markdown Guide](https://www.markdownguide.org) for syntax!
